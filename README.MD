@@ -1,5 +1,9 @@
 #  Lists Splitter
 
+## Purpose
+
+When someone saves their data in a text file using web scraping then the file size goes too large. At that time, this tool will help to make one to many files(as your expect) 
+
 ## How to use?
 -------
 
