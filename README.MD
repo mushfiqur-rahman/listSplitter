@@ -8,7 +8,7 @@ When someone saves their data in a text file using web scraping then the file si
 -------
 
 ```
-$ git clone https://github.com/mushfiqur-rahman/splitter.git
+$ git clone https://github.com/mushfiqur-rahman/listSplitter.git
 ```
 ```
 $ cd listSplitter
